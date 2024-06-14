@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: #f7e0c6;
+    color: #be7859;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #be7859;
+    border-radius: 10px;
+  }
+  
